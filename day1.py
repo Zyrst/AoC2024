@@ -1,5 +1,4 @@
 from pathlib import Path
-import sys
 
 pth = Path("input/aoc_d1_p1.txt")
 
