@@ -1,4 +1,3 @@
-from pathlib import Path
 import re
 from file_reader import read_a_file
 
